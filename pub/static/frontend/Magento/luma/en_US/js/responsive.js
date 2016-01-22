@@ -1,0 +1,1 @@
+/var/www/html/marketplacem2/vendor/magento/theme-frontend-blank/web/js/responsive.js

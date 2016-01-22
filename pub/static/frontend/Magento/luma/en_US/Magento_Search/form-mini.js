@@ -1,0 +1,1 @@
+/var/www/html/marketplacem2/vendor/magento/module-search/view/frontend/web/form-mini.js
